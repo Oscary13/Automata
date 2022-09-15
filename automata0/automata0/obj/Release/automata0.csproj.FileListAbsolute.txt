@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\automata0\automata0\bin\Release\automata0.exe.config
+C:\Users\oscar\source\repos\automata0\automata0\bin\Release\automata0.exe
+C:\Users\oscar\source\repos\automata0\automata0\bin\Release\automata0.pdb
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.Form1.resources
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.Properties.Resources.resources
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.exe
+C:\Users\oscar\source\repos\automata0\automata0\obj\Release\automata0.pdb
